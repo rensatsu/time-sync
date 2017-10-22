@@ -1,0 +1,4 @@
+﻿Api Sources:
+
+https://api.vk.com/method/utils.getServerTime
+https://rencloud.win/time.php?api=1
