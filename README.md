@@ -11,4 +11,4 @@ Application is licensed under MIT License terms, copy of the license is availabe
 
 ## Credits
 
-* Application Icon: "Clock icon" by Paomedia is licensed under Creative Commons (Attribution 3.0 Unported).
+* Application Icon: "Clock icon" by Paomedia is licensed under Creative Commons (Attribution 3.0 Unported) license.
